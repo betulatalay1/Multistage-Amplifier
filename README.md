@@ -107,5 +107,4 @@ stage and approximately 480 – 500 mV.
 
 ---
 
-## 📂 Repository Structure
 
