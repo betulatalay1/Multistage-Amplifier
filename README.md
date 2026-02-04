@@ -108,3 +108,22 @@ stage and approximately 480 – 500 mV.
 ---
 
 
+---
+
+## 📚 References
+
+Sedra/Smith, Boylestad, Razavi, and other analog design sources.  
+See full report for citations.
+
+---
+
+## 👩‍💻 Author
+
+**Betül Atalay**  
+Electrical & Electronics Engineering  
+Hacettepe University
+
+---
+
+⭐ If you find this project interesting, consider starring the repo!
+
